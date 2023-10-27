@@ -1,15 +1,16 @@
-# What is this?
+# app
 
-The github.dev web-based editor is a lightweight editing experience that runs entirely in your browser. You can navigate files and source code repositories from GitHub, and make and commit code changes.
+A new Flutter project.
 
-There are two ways to go directly to a VS Code environment in your browser and start coding:
+## Getting Started
 
-* Press the . key on any repository or pull request.
-* Swap `.com` with `.dev` in the URL. For example, this repo https://github.com/github/dev becomes http://github.dev/github/dev
+This project is a starting point for a Flutter application.
 
-Preview the gif below to get a quick demo of github.dev in action.
+A few resources to get you started if this is your first Flutter project:
 
-![github dev](https://user-images.githubusercontent.com/856858/130119109-4769f2d7-9027-4bc4-a38c-10f297499e8f.gif)
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-# Why?
-It’s a quick way to edit and navigate code. It's especially useful if you want to edit multiple files at a time or take advantage of all the powerful code editing features of Visual Studio Code when making a quick change. For more information, see our [documentation](https://github.co/codespaces-editor-help).
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
